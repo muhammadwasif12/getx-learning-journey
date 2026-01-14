@@ -1,16 +1,38 @@
-# getx-learning-journey
+# GetX Learning Journey 🚀
 
-A new Flutter project.
+Welcome to my GetX Learning Journey repository! This project serves as a documentation and practical implementation of my progress in mastering **GetX** for Flutter, mainly focusing on State Management, Dependency Injection, and Route Management.
 
-## Getting Started
+## 📚 Topics Covered
 
-This project is a starting point for a Flutter application.
+- **State Management**: Simple (`GetBuilder`) vs Reactive (`Obx`, `GetX`).
+- **Route Management**: Named routes, navigation without context (`Get.to()`, `Get.off()`).
+- **Dependency Management**: `Get.put()`, `Get.lazyPut()`, `Get.find()`.
+- **Utilities**: Internationalization, Themes, Dialogs, Snackbars, BottomSheets.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **GetX** (State Management)
+- **Dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏁 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/muhammadwasif12/getx-learning-journey.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## 📝 Notes
+
+- Keeping track of best practices and patterns.
+- Experimenting with GetCLI.
+
+Happy Coding! 💙
